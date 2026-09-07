@@ -29,7 +29,8 @@
         homepage = entry.source;
       };
       passthru = {
-        inherit (entry) name description source;
+        wallpaper = entry.name;
+        inherit (entry) description source;
         inherit variant resolution aspect;
       };
     };

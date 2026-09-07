@@ -2,81 +2,231 @@
   {
     "name": "mountains-mist-clouds",
     "description": "Caucasus mountains wrapped in mist and clouds",
-    "source": "https://wallhaven.cc/w/13j2ev"
+    "source": "https://wallhaven.cc/w/13j2ev",
+    "variants": {
+      "ultrawide": {
+        "url": "https://github.com/madprogrammer/wallpapers/releases/download/2026-09-07/mountains-mist-clouds-5120x2160.png",
+        "hash": "sha256-X0NOlL+HDWzidiA2tUv/ypT+ro4Kq6tLUudtLZLxEGA="
+      },
+      "widescreen": {
+        "url": "https://github.com/madprogrammer/wallpapers/releases/download/2026-09-07/mountains-mist-clouds-3840x2160.png",
+        "hash": "sha256-rkijN1M7uz2hbcY/nj/qY85JTGDURAKN5MqILdex9V4="
+      }
+    }
   },
   {
     "name": "witcher-dark-forest",
     "description": "The Witcher 3: Geralt in a dark misty forest",
-    "source": "https://wallhaven.cc/w/8315mj"
+    "source": "https://wallhaven.cc/w/8315mj",
+    "variants": {
+      "ultrawide": {
+        "url": "https://github.com/madprogrammer/wallpapers/releases/download/2026-09-07/witcher-dark-forest-5120x2160.png",
+        "hash": "sha256-+5UGvjFP+JFk+vEu3tUXiQSiPw1uroB4oY2+vjroBDg="
+      },
+      "widescreen": {
+        "url": "https://github.com/madprogrammer/wallpapers/releases/download/2026-09-07/witcher-dark-forest-3840x2160.png",
+        "hash": "sha256-wNWNW0UzCpPZ5NfVgMSsTCp1hYfXC7ENCJUEVHKrMOU="
+      }
+    }
   },
   {
     "name": "abstract-dark-waves",
     "description": "Windows 11 style black abstract waves, centered",
-    "source": "https://wallhaven.cc/w/e8xlgw"
+    "source": "https://wallhaven.cc/w/e8xlgw",
+    "variants": {
+      "ultrawide": {
+        "url": "https://github.com/madprogrammer/wallpapers/releases/download/2026-09-07/abstract-dark-waves-5120x2160.png",
+        "hash": "sha256-jZWuned7aGugcS2Iu4q/YogpeK1txNcLHtqIJmfv3MY="
+      },
+      "widescreen": {
+        "url": "https://github.com/madprogrammer/wallpapers/releases/download/2026-09-07/abstract-dark-waves-3840x2160.png",
+        "hash": "sha256-u3SYVc7+WSB02FsGLqUptMP4FqzIkZz2TLY2/vuXmKo="
+      }
+    }
   },
   {
     "name": "ship-storm-lightning",
     "description": "Assassin's Creed Odyssey: ship in a lightning storm (letterboxed source)",
-    "source": "https://wallhaven.cc/w/ey59qw"
+    "source": "https://wallhaven.cc/w/ey59qw",
+    "variants": {
+      "ultrawide": {
+        "url": "https://github.com/madprogrammer/wallpapers/releases/download/2026-09-07/ship-storm-lightning-5120x2160.png",
+        "hash": "sha256-bXi+PSIToVINUj3FugIWxgMPpEosGSIMHY/GbUsZGaI="
+      },
+      "widescreen": {
+        "url": "https://github.com/madprogrammer/wallpapers/releases/download/2026-09-07/ship-storm-lightning-3840x2160.png",
+        "hash": "sha256-gIlZYSdyEEz4+Yni84Ls6f7RPIwp0YMqsKDOoiB879M="
+      }
+    }
   },
   {
     "name": "silvia-s15-night-rain",
     "description": "Need for Speed: Nissan Silvia S15 on a rainy night road",
     "source": "https://wallhaven.cc/w/j82l9w",
-    "widescreen_x": 160
+    "widescreen_x": 160,
+    "variants": {
+      "ultrawide": {
+        "url": "https://github.com/madprogrammer/wallpapers/releases/download/2026-09-07/silvia-s15-night-rain-5120x2160.png",
+        "hash": "sha256-5+YIXdWaQDABOdSx17QDAy0JBTEkt9DTuoVek88P0pw="
+      },
+      "widescreen": {
+        "url": "https://github.com/madprogrammer/wallpapers/releases/download/2026-09-07/silvia-s15-night-rain-3840x2160.png",
+        "hash": "sha256-H/N8BoHX+oOKiyjwObNaJ6ziqLwk7lH004ceT6g31jw="
+      }
+    }
   },
   {
     "name": "ronin-valley-mist",
     "description": "Assassin's Creed Shadows: two ronin above a misty valley",
-    "source": "https://wallhaven.cc/w/je9xrw"
+    "source": "https://wallhaven.cc/w/je9xrw",
+    "variants": {
+      "ultrawide": {
+        "url": "https://github.com/madprogrammer/wallpapers/releases/download/2026-09-07/ronin-valley-mist-5120x2160.png",
+        "hash": "sha256-c+kKxbCjHFDuFLSpyC1pDhxS9im26G+eEMf/hIZ7oNc="
+      },
+      "widescreen": {
+        "url": "https://github.com/madprogrammer/wallpapers/releases/download/2026-09-07/ronin-valley-mist-3840x2160.png",
+        "hash": "sha256-Fwn8z2KkBXFQks3tmtAc2n6/I9JvyfGY9i7ofPA28eo="
+      }
+    }
   },
   {
     "name": "eagle-full-moon",
     "description": "Assassin's Creed Odyssey: eagle against the full moon (letterboxed source)",
-    "source": "https://wallhaven.cc/w/kwo1eq"
+    "source": "https://wallhaven.cc/w/kwo1eq",
+    "variants": {
+      "ultrawide": {
+        "url": "https://github.com/madprogrammer/wallpapers/releases/download/2026-09-07/eagle-full-moon-5120x2160.png",
+        "hash": "sha256-ZNMQEDecyCK8r7n+seEMb8MUiL0dJPmBCGW/PVX44e0="
+      },
+      "widescreen": {
+        "url": "https://github.com/madprogrammer/wallpapers/releases/download/2026-09-07/eagle-full-moon-3840x2160.png",
+        "hash": "sha256-QUkXX9eAJpI7LKUij/XVhbYTrxSwRJhUCZ4jZcEO3Ik="
+      }
+    }
   },
   {
     "name": "deer-pink-sunset",
     "description": "Flat vector deer at a pink and purple sunset",
-    "source": "https://wallhaven.cc/w/kwvy91"
+    "source": "https://wallhaven.cc/w/kwvy91",
+    "variants": {
+      "ultrawide": {
+        "url": "https://github.com/madprogrammer/wallpapers/releases/download/2026-09-07/deer-pink-sunset-5120x2160.png",
+        "hash": "sha256-oaTnHiyrzL8b4wc37KP+SIvF+oe6+VtrWrHH2vIU5WE="
+      },
+      "widescreen": {
+        "url": "https://github.com/madprogrammer/wallpapers/releases/download/2026-09-07/deer-pink-sunset-3840x2160.png",
+        "hash": "sha256-2RS+NOMfo6jjRxBdVjeiElLo5YnUlncfwbt8uOwq/ps="
+      }
+    }
   },
   {
     "name": "ina-sunset-lake",
     "description": "Ninomae Ina'nis and Takodachi on a mirror lake at sunset",
     "source": "https://wallhaven.cc/w/kx6gwd",
-    "origin": "https://www.pixiv.net/en/artworks/108234337"
+    "origin": "https://www.pixiv.net/en/artworks/108234337",
+    "variants": {
+      "ultrawide": {
+        "url": "https://github.com/madprogrammer/wallpapers/releases/download/2026-09-07/ina-sunset-lake-5120x2160.png",
+        "hash": "sha256-ByI4juafh2/koayYHvXTKBB2A9IaYTieE+19rTx+YN8="
+      },
+      "widescreen": {
+        "url": "https://github.com/madprogrammer/wallpapers/releases/download/2026-09-07/ina-sunset-lake-3840x2160.png",
+        "hash": "sha256-7hC1a6VKVSBvUJZZW/EdIJbiNZIo2WTk+98fM245nNY="
+      }
+    }
   },
   {
     "name": "horizon-teal-moonlight",
     "description": "Horizon Zero Dawn: ruins under teal moonlight",
-    "source": "https://wallhaven.cc/w/l8vqm2"
+    "source": "https://wallhaven.cc/w/l8vqm2",
+    "variants": {
+      "ultrawide": {
+        "url": "https://github.com/madprogrammer/wallpapers/releases/download/2026-09-07/horizon-teal-moonlight-5120x2160.png",
+        "hash": "sha256-OgYfYSJhSFglgKBd2n7iDtF1kOmyd8RdbgcS2igRCJ0="
+      },
+      "widescreen": {
+        "url": "https://github.com/madprogrammer/wallpapers/releases/download/2026-09-07/horizon-teal-moonlight-3840x2160.png",
+        "hash": "sha256-Ala3OlqqrNLIhPMYVZnQh6pRkML0TpkOITZtQWEY+lc="
+      }
+    }
   },
   {
     "name": "abstract-dark-branches",
     "description": "Near-black minimal abstract with branching veins",
     "source": "https://wallhaven.cc/w/l8z3el",
-    "origin": "https://i.imgur.com/YBD3Rz8.jpg"
+    "origin": "https://i.imgur.com/YBD3Rz8.jpg",
+    "variants": {
+      "ultrawide": {
+        "url": "https://github.com/madprogrammer/wallpapers/releases/download/2026-09-07/abstract-dark-branches-5120x2160.png",
+        "hash": "sha256-SYCUJRyoe1TqMSrAEIIU/iMqmR32ceFbA5Bvmq1bIkw="
+      },
+      "widescreen": {
+        "url": "https://github.com/madprogrammer/wallpapers/releases/download/2026-09-07/abstract-dark-branches-3840x2160.png",
+        "hash": "sha256-TOZqpQmPVE9e2Wr/ir45Ow1WMw+8nDW2/r/ng+ZTfZI="
+      }
+    }
   },
   {
     "name": "mountains-snow-forest",
     "description": "Snow-dusted mountain slopes with autumn forest and fog",
-    "source": "https://wallhaven.cc/w/lmojop"
+    "source": "https://wallhaven.cc/w/lmojop",
+    "variants": {
+      "ultrawide": {
+        "url": "https://github.com/madprogrammer/wallpapers/releases/download/2026-09-07/mountains-snow-forest-5120x2160.png",
+        "hash": "sha256-N+ALuyzA6c2LzqnH0UgISJj5ziPQiWeqPyDKRCyLVw0="
+      },
+      "widescreen": {
+        "url": "https://github.com/madprogrammer/wallpapers/releases/download/2026-09-07/mountains-snow-forest-3840x2160.png",
+        "hash": "sha256-GUNkUcDhMq16gNwyj+br8RSvpaXPIBloGAIgr4v8ON0="
+      }
+    }
   },
   {
     "name": "leaves-dark-closeup",
     "description": "Low-light close-up of green leaves",
     "source": "https://wallhaven.cc/w/md8p11",
-    "origin": "https://www.reddit.com/r/WidescreenWallpaper/comments/g9e87w/"
+    "origin": "https://www.reddit.com/r/WidescreenWallpaper/comments/g9e87w/",
+    "variants": {
+      "ultrawide": {
+        "url": "https://github.com/madprogrammer/wallpapers/releases/download/2026-09-07/leaves-dark-closeup-5120x2160.png",
+        "hash": "sha256-58KX3Sr0Tm0zBenInrgzrkwtIoWKKTL/lSKRJBV2UBk="
+      },
+      "widescreen": {
+        "url": "https://github.com/madprogrammer/wallpapers/releases/download/2026-09-07/leaves-dark-closeup-3840x2160.png",
+        "hash": "sha256-ul7VNsK4zuRZJmy/eJS9wgds2p0jwz4BrzRSVGbKyY0="
+      }
+    }
   },
   {
     "name": "monolith-lake-sunset",
     "description": "Surreal monolith over a mountain lake at sunset",
     "source": "https://wallhaven.cc/w/o56ey9",
-    "origin": "https://www.behance.net/gallery/93191923/Huawei-Wisdom"
+    "origin": "https://www.behance.net/gallery/93191923/Huawei-Wisdom",
+    "variants": {
+      "ultrawide": {
+        "url": "https://github.com/madprogrammer/wallpapers/releases/download/2026-09-07/monolith-lake-sunset-5120x2160.png",
+        "hash": "sha256-GfwLSslJjYHRVOagOuqVL2mIf4OzL7EV06+fKIKgAQY="
+      },
+      "widescreen": {
+        "url": "https://github.com/madprogrammer/wallpapers/releases/download/2026-09-07/monolith-lake-sunset-3840x2160.png",
+        "hash": "sha256-ZstrIFv9zj4l/9FEzJYBJGN8n7c//dfWUjLj9fPzPiw="
+      }
+    }
   },
   {
     "name": "dragon-forest-fantasy",
     "description": "Red-haired woman meets a dragon in a green forest",
-    "source": "https://wallhaven.cc/w/q268rd"
+    "source": "https://wallhaven.cc/w/q268rd",
+    "variants": {
+      "ultrawide": {
+        "url": "https://github.com/madprogrammer/wallpapers/releases/download/2026-09-07/dragon-forest-fantasy-5120x2160.png",
+        "hash": "sha256-pWZ2s1mjA+mN+gWWfr0C+AhKW+T4D6Ua8OeuGTPZ198="
+      },
+      "widescreen": {
+        "url": "https://github.com/madprogrammer/wallpapers/releases/download/2026-09-07/dragon-forest-fantasy-3840x2160.png",
+        "hash": "sha256-Dyah3+cfDHft2JJZuThuid6mSGvWituFOmnXZHoWsj0="
+      }
+    }
   }
 ]

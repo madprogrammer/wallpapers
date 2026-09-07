@@ -18,11 +18,16 @@
     packages = forEachSystem (system: let
       pkgs = nixpkgs.legacyPackages.${system};
       wallpapers = wallpapersFor system;
-      flat = lib.listToAttrs (lib.concatMap (set:
-        map (drv: lib.nameValuePair drv.name drv) (lib.attrValues set)) (lib.attrValues wallpapers));
+      flat =
+        lib.listToAttrs (lib.concatMap (set:
+            map (drv: lib.nameValuePair "${drv.wallpaper}-${drv.resolution}" drv) (lib.attrValues set)) (lib.attrValues wallpapers));
       all = pkgs.linkFarmFromDrvs "wallpapers" (lib.attrValues flat);
     in
-      flat // {inherit all; default = all;});
+      flat
+      // {
+        inherit all;
+        default = all;
+      });
 
     formatter = forEachSystem (system: nixpkgs.legacyPackages.${system}.alejandra);
   };
